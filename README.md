@@ -4,6 +4,8 @@ Link a Netlify del proyecto:
 https://mugishopar.netlify.app
 
 **Navegacion:**
+
+
 [![Alt text](https://img.youtube.com/vi/rNyuNy1rn7c/0.jpg)](https://www.youtube.com/watch?v=rNyuNy1rn7c)
 # Para poder usar el proyecto
 
@@ -12,7 +14,7 @@ https://mugishopar.netlify.app
 - Clonar el repositorio de GitHub:
 
   ```bash
-  git clone 
+  git clone https://github.com/Luridrou/Mugishop-React-Final
   ```
 
 - cd dentro del directorio de la carpeta:
