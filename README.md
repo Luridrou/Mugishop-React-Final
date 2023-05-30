@@ -19,7 +19,7 @@ https://mugishopar.netlify.app
 
 - cd dentro del directorio de la carpeta:
   ```bash
-  cd mugishopar
+  cd Mugishop-React-Final
   ```
 
 - Instala las dependencias.
